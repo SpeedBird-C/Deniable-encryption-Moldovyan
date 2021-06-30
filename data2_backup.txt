@@ -1,0 +1,1 @@
+This framework uses relative value to make directional decisions based on following the major reserve crypto asset which is bitcoin.
